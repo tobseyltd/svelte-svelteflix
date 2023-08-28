@@ -2,7 +2,7 @@
 	import '../app.postcss';
 </script>
 
-<nav>
+<nav class="flex w-100 h-12 items-center justify-between text-primary">
 	<a href="/">Svelteflix</a>
 
   <div>
